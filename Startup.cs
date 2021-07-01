@@ -36,7 +36,7 @@ namespace app
 
             // Database connection string.
             // Make sure to update the Password value below from "Your_password123" to your actual password.
-            var connection = @"Server=db;Database=master;User=sa;Password=Password2020;";
+            var connection = @"Server=20.79.90.133;Database=master;User=sa;Password=Password2020;";
 
             // This line uses 'UseSqlServer' in the 'options' parameter
             // with the connection string defined above.
